@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Workshop Title"
 
 # Contact email address.
-email:kmekonen1@gmail.com
+email: lesson@software-carpentry.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
